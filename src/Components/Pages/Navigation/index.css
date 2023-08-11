@@ -1,0 +1,35 @@
+.nav-container{
+    height: 100px;
+    width: 100%;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    
+}
+.box-container{
+    width: 80%;
+    height: 100%;
+    display:flex;
+    align-items: center;
+    /* background-color: yellow; */
+    justify-content: space-between;
+}
+.box-1{
+    height: 70%;
+    width: 100px;
+    /* background-color: green; */
+}
+.box-1-image-css{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+.box-2{
+    display: flex;
+    width:20%;
+    justify-content: space-between;
+    /* background-color: blue; */
+}
+h4{
+    font-family: 'Poppins', sans-serif;
+}
